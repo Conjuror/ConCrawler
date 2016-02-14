@@ -1,0 +1,9 @@
+language: node_js
+node_js:
+  - "4.3.0"
+branches:
+  only:
+    - "master"
+notification:
+  email:
+    - "kuang.con@gmail.com"

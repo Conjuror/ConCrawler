@@ -1,0 +1,11 @@
+{
+    "name": "Conjuror's crawler test",
+    "devDependencies": {
+        "mocha": "*",
+        "request": "*",
+        "cheerio": "*"
+    },
+    "script": {
+        "test" : "mocha test.js -R spec"
+    }
+}
